@@ -1,4 +1,4 @@
-# C_Languge
+# C_Language 
 # C Language Activities and Exercises
 
 Welcome to the **C Language Activities and Exercises** repository! This repository contains solutions and examples of activities and exercises for students of **10th class** and **12th class**, designed to help you practice and improve your programming skills in C.
